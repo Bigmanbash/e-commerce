@@ -10,7 +10,7 @@ function Checkout() {
     return  (
         <div className='checkout'>
             <div className='checkout__left'>
-                <img className='checkout__ad' src='../advert1.jpg' alt='' />
+                <img className='checkout__ad' src='https://bigmanbash.github.io/advert1.jpg' alt='' />
                 <div>
                     <h2 className='checkout__title'>Your Shopping Basket</h2>
                     <h2>
