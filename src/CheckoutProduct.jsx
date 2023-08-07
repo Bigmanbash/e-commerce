@@ -28,8 +28,8 @@ function CheckoutProduct({ image, title, price, rating, id }) {
                     .fill()
                     .map((_, i) => (
                     <img 
-                    src='star-icon.png'
-                    alt=''
+                    src='/star-icon.png'
+                    alt='e-commerce'
                     />
                     ))}
                 </div>
