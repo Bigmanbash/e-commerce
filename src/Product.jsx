@@ -35,14 +35,14 @@ function Product({ title, image, price, rating, id }) {
                     .map((_, i) => (
                     <img 
                       src='/star-icon.png'
-                      alt='e-commerce'
+                      alt=''
                     />
                     ))}
                 </div>
             </div>
                 <img 
                 src={image}
-                alt='e-commerce'
+                alt=''
                     />
                 <button onClick={addToBasket}>Add To Basket</button>
         </div>
