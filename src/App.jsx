@@ -15,7 +15,7 @@ const promise = loadStripe('pk_test_51NXQXXAwRLoOvrUw6W65WzTULzDeB5RG35jaGDuJy7F
 function App() {
  
   return (
-    <Router>
+    <Router basename={import.meta.env.DEV ? '/' : '/e-commerce/'}>
         <div className="app">
           <Routes>
 
