@@ -34,7 +34,7 @@ function Product({ title, image, price, rating, id }) {
                     .fill()
                     .map((_, i) => (
                     <img 
-                      src='https://bigmanbash.github.io/star-icon.png'
+                      src='star-icon.png'
                       alt=''
                     />
                     ))}

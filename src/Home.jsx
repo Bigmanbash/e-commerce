@@ -17,14 +17,14 @@ function Home() {
                             id= '1'
                             title='The lean startup'
                             price={29.99}
-                            image='https://bigmanbash.github.io/lean-start-up.jpg'
+                            image='lean-start-up.jpg'
                             rating={5}
                          />
                         <Product 
                             id= '2'
                             title='Petrol engine grinding machine'
                             price={129.99}
-                            image='https://bigmanbash.github.io/grinding-machine.jpg'
+                            image='grinding-machine.jpg'
                             rating={4}
                         />
                     </div>
@@ -34,21 +34,21 @@ function Home() {
                             id= '3'
                             title='Laptop Bag Pack'
                             price={5.99}
-                            image='https://bigmanbash.github.io/bag.jpg'
+                            image='bag.jpg'
                             rating={5}
                         />
                         <Product
                             id= '4'
                             title='iPhone 14 Pro Max, 1Terabyte ROM'
                             price={1999.99}
-                            image='../iPhone-14-promax.jpg'
+                            image='iPhone-14-promax.jpg'
                             rating={5}
                         />
                         <Product 
                             id= '5'
                             title='Benz 2023 Driverless Car With Petrol, Electric And Solar Powered'
                             price={65999.99}
-                            image='https://bigmanbash.github.io/benz-2023.jpg'
+                            image='benz-2023.jpg'
                             rating={5}
                         />
                     </div>
@@ -58,7 +58,7 @@ function Home() {
                             id= '6'
                             title='Sony Play Station 5 Console'
                             price={999.99}
-                            image='https://bigmanbash.github.io/sony-playstation5.jpg'
+                            image='sony-playstation5.jpg'
                             rating={5}
                         />
                     </div>
