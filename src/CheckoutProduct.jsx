@@ -28,7 +28,7 @@ function CheckoutProduct({ image, title, price, rating, id }) {
                     .fill()
                     .map((_, i) => (
                     <img 
-                    src='./images/star-icon.png'
+                    src='../images/star-icon.png'
                     alt=''
                     />
                     ))}
